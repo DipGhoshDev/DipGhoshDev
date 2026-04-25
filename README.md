@@ -24,6 +24,19 @@
 <br />
 <br />
 <br />
+
+---
+<div align="left">
+   
+## 👤 About Me
+
+Hey, I'm **Dip Ghosh** — a **Junior Software Engineer** at **ITLogiko**, building production-grade intelligent systems, contributing to open source, and exploring the depth of MLOps pipelines.
+
+- 🤖 Currently working on **SaaS projects** with real-world impact
+- 🛠️ Hands-on with **Php, Javascript, React, Laravel** workflows
+- 🌍 Active **open source contributor** — I believe in building in public
+- 🤝 Open to **collaborations, internships**, and interesting open-source contributions
+- 💡 Philosophy: *Ship fast, learn faster. Clean code is a love language.*
     
 <div align="center">
 
