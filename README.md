@@ -11,6 +11,13 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=717D67&width=400&height=28&lines=Hi👋+I'm+Dip+Ghosh+...;Passionate+Full+Stack+Web+Dev+...;Nice+To+Meet+You+....&center=true" alt="Typing Text" style="paddingBottom: 500px;"> 
 </p>
 
+<br/><br/>
+
+<!-- PROFILE BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=ShreyanshuGhosh&label=Profile+Views&color=64ffda&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshu-ghosh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_shreyanshu.17/)
+
     
 <br />
 <br />
