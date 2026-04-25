@@ -5,6 +5,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Dip%20Ghosh&fontColor=ffffff&fontSize=52&fontAlignY=70&desc=Building%20things%20that%20matter%2C%20one%20commit%20at%20a%20time.&descAlignY=88&descSize=16&descFontColor=8892b0&animation=fadeIn" width="100%"/>
 
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Data+%26+ML+Enthusiast;Open+Source+Contributor+%F0%9F%8C%8D;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
+
     
 <br />
 <br />
