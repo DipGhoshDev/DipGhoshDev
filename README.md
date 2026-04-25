@@ -1,7 +1,9 @@
-<p align="center">
+<!-- <p align="center">
    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> 
    <img src="https://readme-typing-svg.herokuapp.com?color=717D67&width=400&height=28&lines=Hi👋+I'm+Dip+Ghosh+...;Passionate+Full+Stack+Web+Dev+...;Nice+To+Meet+You+....&center=true" alt="Typing Text" style="paddingBottom: 500px;"> 
-</p>
+</p> -->
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Shreyanshu%20Ghosh&fontColor=ffffff&fontSize=52&fontAlignY=70&desc=Building%20things%20that%20matter%2C%20one%20commit%20at%20a%20time.&descAlignY=88&descSize=16&descFontColor=8892b0&animation=fadeIn" width="100%"/>
 
     
 <br />
