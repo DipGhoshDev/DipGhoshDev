@@ -104,23 +104,8 @@ A web platform connecting buyers, sellers, and agents for property listings, sea
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DipGhoshDev&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="100%"/><br/>
 
-</div>
+</div> 
 
----
-
-<br />
-<br />
-
-<div align="center">
-   
-<div>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipGhoshDev&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="100%"/><br/>
-
-</div>
-
-</div>
- 
 <br/> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
