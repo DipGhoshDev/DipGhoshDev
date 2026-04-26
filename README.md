@@ -65,7 +65,7 @@ Web-based SaaS automating admissions, academics, exams, fees, and operations wit
 
 `PHP` `ReactJS` `TypeScript` `Laravel`
 
-[→ View Project](https://github.com/ShreyanshuGhosh/MARINE_MESSIAH)
+[→ View Project](https://github.com/DipGhoshDev/EIMS)
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +75,7 @@ A web platform connecting buyers and sellers to trade new and second-hand produc
 
 `TypeScript` `Full-Stack`
 
-[→ View Project](https://github.com/ShreyanshuGhosh/Nite.Bite)
+[→ View Project](https://github.com/DipGhoshDev/ReUseBin-UI)
 
 </td>
 </tr>
@@ -87,7 +87,7 @@ A web platform connecting buyers, sellers, and agents for property listings, sea
 
 `ReactJS` `Laravel`
 
-[→ View Project](https://github.com/ShreyanshuGhosh/E-Library)
+[→ View Project](https://github.com/DipGhoshDev/Real-Estate)
 
 </td> 
 </tr>
@@ -96,26 +96,26 @@ A web platform connecting buyers, sellers, and agents for property listings, sea
 ---
 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 </div>
  
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DipGhoshDev&theme=dark&hide_border=false)<br/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DipGhoshDev&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="100%"/><br/>
 
 </div>
+
+---
+
+<br />
+<br />
 
 <div align="center">
-
+   
 <div>
 
-  ![](https://github-readme-stats.vercel.app/api?username=DipGhoshDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-</div>
-<div>
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DipGhoshDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipGhoshDev&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="100%"/><br/>
 
 </div>
 
