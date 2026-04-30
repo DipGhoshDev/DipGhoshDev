@@ -101,8 +101,26 @@ A web platform connecting buyers, sellers, and agents for property listings, sea
 </div>
  
 <div align="center">
+   
+<picture>
+  <!-- Dark mode -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=DipGhoshDev&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda"
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DipGhoshDev&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda" width="100%"/><br/>
+  <!-- Light mode -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=DipGhoshDev&theme=default&hide_border=true"
+  />
+
+  <!-- Fallback -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DipGhoshDev" 
+    width="100%"
+  />
+</picture>
 
 </div> 
 
@@ -112,7 +130,19 @@ A web platform connecting buyers, sellers, and agents for property listings, sea
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/DipGhoshDev/DipGhoshDev/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/DipGhoshDev/DipGhoshDev/output/github-contribution-grid-snake-dark.svg">
+  
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/DipGhoshDev/DipGhoshDev/output/github-contribution-grid-snake.svg">
+  
+  <!-- Fallback -->
+  <img alt="github contribution grid snake"
+       src="https://raw.githubusercontent.com/DipGhoshDev/DipGhoshDev/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
