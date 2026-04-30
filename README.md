@@ -106,6 +106,28 @@ A web platform connecting buyers, sellers, and agents for property listings, sea
 
 </div> 
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/DipGhoshDev/DipGhoshDev/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**"Smart work pays."**
+
+*Let's build something great — reach out anytime.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dip-ghosh-dev)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+
 <br/> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
