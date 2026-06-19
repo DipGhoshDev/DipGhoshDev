@@ -106,15 +106,15 @@ A web platform connecting buyers, sellers, and agents for property listings, sea
 
 </div> 
 
----
+<!-- --- -->
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
 
 ![snake](https://raw.githubusercontent.com/DipGhoshDev/DipGhoshDev/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+</div> -->
 
 ---
 
